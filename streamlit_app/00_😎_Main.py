@@ -1,19 +1,19 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Stock Prediction App",
+    page_title="Stock Market Analysis",
     page_icon="😎",
 )
 
 st.markdown(
-    """# 📈 **Stockastic**
+    """# 📈 **Stock Market Analysis**
 ### **Predicting Stocks with ML**
 
-**Stockastic is an ML-powered stock price prediction app built with Python and Streamlit. It utilizes machine learning models to forecast stock prices and help investors make data-driven decisions.**
+**Stock Market Analysis is an ML-powered stock price prediction app built with Python and Streamlit. It utilizes machine learning models to forecast stock prices and help investors make data-driven decisions.**
 
-## 🏗️ **How It's Built**
+## 🏠 **How It's Built**
 
-Stockastic is built with these core frameworks and modules:
+Stock Market Analysis is built with these core frameworks and modules:
 
 - **Streamlit** - To create the web app UI and interactivity 
 - **YFinance** - To fetch financial data from Yahoo Finance API
@@ -43,7 +43,7 @@ The app workflow is:
 1. Clone the repo
 
 ```bash
-git clone https://github.com/user/stockastic.git
+git clone https://github.com/user/stock-market-analysis.git
 ```
 
 2. Install requirements
